@@ -1,5 +1,3 @@
-[![GitHub tag](https://img.shields.io/github/tag/expressjs/express.svg)]()
-
 # Magic Sit System
 
 This is Whidou Bienstock's magic sit system for OpenSim and SL.
